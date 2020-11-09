@@ -6,7 +6,7 @@ from datetime import datetime as dt
 # Windows host file path
 hostpath = r"c:\Windows\System32\drivers\etc\hosts"
 
-redirect = "127.0.0.1" # local host/server
+redirect = "127.0.0.1"# local host/server
 
 websites = ["www.facebook.com"]# Add the website you want to block ,you can add more website
 
